@@ -1,19 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - prints lowercase alphabets,
- * followed by a new line
- * Return: 0 (Success)
+ * main - prints all single digit numbers of base 10 starting from 0,
+ * followed by a new line, using putchar
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int ch;
+	int n;
 
-	for (ch = 0; ch <= 9; ch++)
+	for (n = 0; n < 10; n++)
 	{
-		putchar(ch);
+		putchar(n);
 	}
 	putchar('\n');
 	return (0);
-
 }
