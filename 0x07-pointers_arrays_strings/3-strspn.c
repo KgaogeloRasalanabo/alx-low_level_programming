@@ -37,5 +37,3 @@ unsigned int _strspn(char *s, char *accept)
 	}
 	return (i);
 }
-Footer
-© 2023 GitHub, Inc.
