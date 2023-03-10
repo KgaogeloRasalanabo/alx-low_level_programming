@@ -1,4 +1,7 @@
 !<arch>
+//                                              20        `
+libholberton.a*.o/
+
 main.h/         0           0     0     644     723       `
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
@@ -26,3 +29,5 @@ char *_strstr(char *haystack, char *needle);
 
 #endif /* _HOLBERTON_H_ */
 
+/0              0           0     0     644     8         `
+!<arch>
